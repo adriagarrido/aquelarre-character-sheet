@@ -1,2 +1,3 @@
-# aquelarre-draft
-Draft domain for an aquelarre character sheet
+# Aquelarre Character Sheet
+
+Project to generate Aquelarre character Sheets.
